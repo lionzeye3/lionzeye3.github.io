@@ -39,3 +39,9 @@ body {
 #share .fb-share-button iframe {
 	margin-top: -4px;
 }
+
+#donate {
+	width: 100%;
+	text-align: center;
+	font-family: Arial;
+}
